@@ -276,3 +276,9 @@ color:#374151;
 font-size:16px;
 margin-top:0px; 
 }
+.error{
+color: red;
+font-size: 13px;
+margin-top: 4px;
+font-weight: 500;
+}
